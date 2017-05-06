@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="org.sergiolopes.cenourapp"
+        id="org.odairfreitas.repsejaoapp"
         version="1.0.0">
 
     <name>República do Serjão</name>
@@ -10,8 +10,8 @@
         Aplicativo da República do Serjão.
     </description>
 
-    <author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
-        Sérgio Lopes
+    <author href="https://www.linkedin.com/in/odair-freitas-768533121/" email="dair00f@yahoo.com.br">
+        Odair Freitas
     </author>
     
 </widget>
