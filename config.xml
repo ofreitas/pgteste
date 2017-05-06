@@ -4,7 +4,7 @@
         id="org.odairfreitas.repsejaoapp"
         version="1.0.0">
 
-    <name>República do Serjão</name>
+    <name>Rep do Serjão</name>
 
     <description>
         Aplicativo da República do Serjão.
@@ -17,9 +17,9 @@
 	<!-- Parametros -->
 	<preference name="phonegap-version" value="cli-6.5.0" />
 	<preference name="orientation" value="portrait" />
-	<preference name="fullscreen" value="true" />
+	<!--<preference name="fullscreen" value="true" />-->
 	<preference	name="permissions" value="none"	/>
-	<preference	name="android-minSdkVersion" value="16"	/>
+	<!--<preference	name="android-minSdkVersion" value="16"	/>-->
 	
 	<!-- Build apenas para Android -->
 	<gap:platform	name="android"	/>
