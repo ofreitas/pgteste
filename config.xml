@@ -13,5 +13,15 @@
     <author href="https://www.linkedin.com/in/odair-freitas-768533121/" email="dair00f@yahoo.com.br">
         Odair Freitas
     </author>
+	
+	<!-- Parametros -->
+	<preference name="phonegap-version" value="cli-6.0.0" />
+	<preference name="orientation" value="portrait" />
+	<preference name="fullscreen" value="true" />
+	<preference	name="permissions" value="none"	/>
+	<preference	name="android-minSdkVersion" value="16"	/>
+	
+	<!-- Build apenas para Android -->
+	<gap:platform	name="android"	/>
     
 </widget>
