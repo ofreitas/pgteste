@@ -4,10 +4,10 @@
         id="org.sergiolopes.cenourapp"
         version="1.0.0">
 
-    <name>Menu Só de Cenoura</name>
+    <name>República do Serjão</name>
 
     <description>
-        Menu do restaurante Só de Cenoura.
+        Aplicativo da República do Serjão.
     </description>
 
     <author href="http://sergiolopes.org" email="qualquer@sergiolopes.org">
